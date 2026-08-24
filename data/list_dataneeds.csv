@@ -1,0 +1,166 @@
+DataNeedsCode;DataNeedsLabel;Description;NumberOfDatasetsIdentified
+D001;Individual case data;One row by case, pseudonymized linkabe data, including: date of diagnostic, onset of symptoms, symptoms description, age, sex, geographical area, imported case identifier, cluster ID, Individual identifier);9
+D002;Contact-level exposure data;One row by contact, pseudonymized linkable data, including: context of contact/setting, last exposure date, travel history, date of recovery, link to confirmed case, cluster identifier, exposure via animals if relevant;2
+D003;Individual mortality records;One row by death, pseudonymized linkable data, including information on geographical area, sex, age, cause of death;5
+D004;Genomic sequencing database;Sequencing and corresponding metadata (date, location, host species), variant lineage classification;3
+D005;Number of new cases by country;By date;6
+D006;Number of new hospitalisations by country;By date;3
+D007;Number of deaths by country;By date;5
+D008;Intervention (medical counter measure or non-pharmaceutical intervention) by country;Type of intervention, start and end date, country of implementation;2
+D009;Hospitalisation records;One row by hospitalisation, pseudonymized linkabe data, including: institution, age, sex, geographical area, comorbidities, date of admission, date of discharge, date of ICU admission, date of ICU discharge, date of death, date of transfer;5
+D010;Laboratory tests (in animals) records;One row by test including: test result, species, geographical location of animal herding/capture or sampling, type of test, date of sampling, laboratory code;0
+D011;Diagnostic test characteristics;Including test sensitivity, specificity, limit of detection;Not mapped
+D012;Diagnostic test regulatory approval;type of test with approval date;Not mapped
+D013;Intervention assessment outcomes;Including study design, type of measure, comparator/control group specifications, effect size, efficacy. Apply to both therapeutic and NPI;1
+D014;Reimbursed medication data;Pseudonymized linkable data, including: sex, age, presence of comorbidities, immunocomproside status, pregnancy status.;1
+D015;Number of ICU beds;Granularity: hospital level, also include extension capacity within X hours. Total and real-time availability;1
+D016;Number of general ward beds;Granularity: hospital level, also include extension capacity within X hours. Total and real-time availability;1
+D017;Number of surge capacity beds;Granularity: hospital level, also include extension capacity within X hours. Total and real-time availability;0
+D018;Number of trained ICU staff available;Granularity: hospital level, also include extension capacity within X hours. Total and real-time availability;1
+D019;Equipment inventory data;Daily updated stock, Including: PPE category (masks by type, gloves, gowns), expiration date, storage conditions;0
+D020;Survey data on adherence to intervention;Assessing willingness to comply, perceived effectiveness, barriers to adoption, and trust in authorities;4
+D021;Diagnostic tests inventory data;Daily updated stock, including: type of material (PCR, antigneic kit, reagents, nasopharyngeal swab), expiration date. Required at national and subnational levels;0
+D022;Laboratory test records;One row by test, pseudonymized linkabe data, including: date of sampling, date of test, date of entry, type of test, prescription reason, prescriber, test performer, test result, laboratory code;4
+D023;Number of imported live animals;By species and by country of origin;1
+D024;Number of international air arrivals;;1
+D025;Number of land border crossings;;1
+D026;Number of border closures;Not limited to crisis-related;1
+D027;Mobility data;From mobile device logs, geolocalization data, public transport boardings;2
+D028;Socio-demographic data;Pseudonymized linkable data, includig: age, sex, geographical area, household composition, migration background, occupation;4
+D029;Clinical staff on duty;Granularity: hospital level, count by shift;1
+D030;Clinical staff absent;Granularity: hospital level, count by shift;1
+D031;Number of isolation/quarantine beds;Granularity: institution level, also include extension capacity within X hours, total and real-time;0
+D032;WHO pandemic phase criteria;;Not mapped
+D033;Benchmark indicators for transfer and coordination from EU;;2
+D034;Livestock and flock data;Livestock density (animals per km²), number of flocks, farm density, access to wildlife by species. Required at subnational level;0
+D035;Laboratory staff register;List of laboratory staff with occupation, date of last training, competency areas, and work location (by institution);0
+D036;Count of delayed or incomplete deliveries for reagents/equipment (supplier to institution);;0
+D037;Supplier performance rating;;0
+D038;External quality assessment of laboratories;Pass rate and outcome summary;Not mapped
+D039;Frequency of lab audits;Per year;Not mapped
+D040;Average travel distance to nearest testing facility;By geographical area;1
+D041;Out-of-pocket testing cost as percentage of income;;1
+D042;National prioritization criteria list;;0
+D043;Population size of target groups;By age, sex and geographical area (national and subnational);3
+D044;Real-world effectiveness of interventions ;By  target group;7
+D045;Proportion of population eligible for intervention;;5
+D046;Rate of adverse events per medical counter measure;;4
+D047;Drug inventory data;Daily updated stock, including: drug product, expiration date, storage conditions, unit cost;0
+D048;Proportion of population working remotely;;0
+D049;Number of reported large gatherings;;Not mapped
+D050;Weather data;Daily update;1
+D051;Date of last system readiness assessment;;Not mapped
+D052;Proportion of systems scoring “ready”;;Not mapped
+D053;List of gaps identified during last system assessment;;Not mapped
+D054;Number of corrective actions completed;;Not mapped
+D055;Gap category (workforce, supply chain, governance);Requires standardised categories;Not mapped
+D056;Average time to address identified gaps;;Not mapped
+D057;Percentage of gaps still unresolved;;Not mapped
+D058;Number of ventilators available and functional;;0
+D059;Count of oxygen cylinders available;By institution;0
+D060;Average delivery time from central stock to institution;For reagents and equipment;0
+D061;Number of reported supply chain disruptions;For reagents and equipment;Not mapped
+D062;Target groups identified from national prioritisation policy;By category: HCWs, elderly, etc.;Not mapped
+D063;Allocated stock per target group;For pharmaceutical and non-pharmaceutical prevention tools, including PPE;Not mapped
+D064;Deviation from prioritization observed;;Not mapped
+D065;Existence of allocation mechanism from national preparedness plan;;Not mapped
+D066;Healthcare worker register;Pseudonymized linkable data, including: occupation, speciality, institution;1
+D067;Existence of triage protocol;With protocol version date;Not mapped
+D068;Number of institutions applying triage protocol;;Not mapped
+D069;Number of ambulances;;0
+D070;Average response time to emergency calls;;0
+D071;Survey data on acceptance of implemented measures;Assessing trust in health authorities, reasons for refusal or delay, adherence to preventive measures, cultural practices affecting adherence, social or economic barriers;4
+D072;Number of interventions aligned with WHO/ECDC guidance;Based on reference list of interventions;Not mapped
+D073;Proportion of implemented measures consistent with international standards;Based on reference list of interventions;Not mapped
+D074;Number of local health institutions equipped to deliver interventions;;Not mapped
+D075;Percentage of institutions reporting logistics bottlenecks;;Not mapped
+D076;Projected equipment demand;Daily projected demand, including: PPE category (masks by type, gloves, gowns);0
+D077;Proportion of fulfilled requests of equipment;By institution, including PPE, therapeutics, both partially or fully fulfilled;0
+D078;Prevalence of reported anxiety/depression;Tracked over time;3
+D079;Utilization of mental health services;;0
+D080;School absenteeism rate;;0
+D081;Travel and public health advisories issued by other countries;Issuing country, date, restriction type, withdrawal date;1
+D082;Proportion of population with online access to essential services;;0
+D083;Proportion of population with access to delivery services;;0
+D084;Passenger volume by transport mode;;2
+D085;Monthly freight/trade volume;;0
+D086;Count of job losses by sector;;2
+D087;Travel history;Date of entry, country of origin, transport mode, journey duration;3
+D088;Positive test on arrival;All tests performed on arrival, with positive/negative result;3
+D089;Average staff-to-beneficiary ratio in social services;;0
+D090;Percentage of service coverage for vulnerable groups;;0
+D091;Number with reported shortages in essential goods;Per households or individuals;0
+D092;Vaccine dose administration records;One row by vaccine dose, pseudonymized linkable data, including: age, sex, geographical area, vaccine product, vaccine administration setup;5
+D093;Seroprevalence;By regional level, age groups, sex;3
+D094;Duration of containment measure;;2
+D095;Public survey responses on perceived social impact;;4
+D096;Baseline laboratory diagnostic testing capacity;Samples/day under routine conditions;Not mapped
+D097;Count of laboratories maintaining pathogen-specific diagnostic capability;Including animal laboratories;Not mapped
+D098;Baseline genomic sequencing capacity;Samples/week;Not mapped
+D099;Number of trained field epidemiologists;;Not mapped
+D100;Annual pandemic funding level;For surveillance, pharmaceutical and non-pharmaceutical prevention tools;Not mapped
+D101;Number of elective surgeries postponed;;0
+D102;Existence and type of legal basis for intervention ;Yes/no + legal instrument type;Not mapped
+D103;Number of outpatient appointments cancelled;;0
+D104;Intervention listing impact and legal aspects;Including type of legal text, date and validity period, geographical scope, level of restriction, documentation of proportionality, impact on fundamental rights, ethical assesment performed;0
+D105;Number of diagnostic procedures postponed;;0
+D106;Median waiting time for elective surgery;In days;0
+D107;Median waiting time for specialist consultation;In days;0
+D108;Number of emergency admissions for conditions previously deferred;;0
+D109;Proportion of late-stage diagnoses for selected conditions;;0
+D110;Number of additional operating sessions scheduled to reduce backlog ;;0
+D111;Existence of individual Appeals or redress mechanism for persons affected;;Not mapped
+D112;Percentage of procedures completed vs postponed;;0
+D113;Deployment time from request to operational status;In hours;Not mapped
+D114;Number of licensed isolation rooms available and functional;;Not mapped
+D115;Number of staff pre-assigned to surge or modular units;;Not mapped
+D116;Proportion of modular units compliant with WHO IPC biosafety standards;;Not mapped
+D117;Average operational duration of modular units without resupply;;Not mapped
+D118;Hand hygiene stations functional;Per institution;Not mapped
+D119;Number of negative pressure rooms available and functional;;Not mapped
+D120;Proportion of population within defined access radius;;Not mapped
+D121;Number of households reporting food insecurity;;0
+D122;Number of households with risk of eviction or homelessness;;0
+D123;Number of active social service centers;Per geographical area;0
+D124;Percentage of healthcare staff absenteeism;By type of reason (illness, quarantine, etc.);1
+D125;Percentage of waste safely treated and disposed;;0
+D126;Number of health institutions using standardized formats for data reporting;;Not mapped
+D127;Geographic coverage of deployable modular units;;Not mapped
+D128;Proportion of institutions with waste segregation in practice;;Not mapped
+D129;Frequency of biomedical waste collection;Per week;Not mapped
+D130;Availability of functional incinerators;Count per institution;Not mapped
+D131;Number of reported breaches in waste disposal protocols;Requires standardised definition of breach;Not mapped
+D132;Population size;National (including various geographical area, age and sex) and international level;2
+D133;Spatial data (geographical boundaries of territorial units);For various geographical levels, required for generation of maps, including wildlife habitat maps, livestock farm locations, and wildlife-livestock interface areas;1
+D134;Home and hotel quarantine capacity;Number of designated quarantine places by type and location;0
+D135;Number and location of testing facilities;Including airport and border testing points;0
+D136;Number of staff dedicated to contact tracing; By institution and region;0
+D137;Diagnostic test production capacity;Units per day by manufacturer and test type;0
+D138;Primary care activity data;GP consultation rates, primary care capacity and appointment data;4
+D139;Cross-sector surge support capacity;Veterinary, military, and private sector equipment and staff available for medical surge;Not mapped
+D140;Analytical capacity and data integration assessment output;Data linkage capability, interoperability standards, governance framework, analytical workforce;Not mapped
+D141;General population work absenteeism rate;;3
+D142;Economic evaluation and cost-effectiveness of interventions ;Cost per outcome avoided, by intervention type;Not mapped
+D143;Funding status and continuity of community and civil society organisations;;Not mapped
+D144;In-vitro virological characteristics;Including infectivity experiments in animals;Not mapped
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;

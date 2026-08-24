@@ -1,0 +1,2562 @@
+{
+  "infoneeds": [
+    {
+      "ID": "pi01",
+      "Label": "Case definition",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D001",
+        "D011",
+        "D022"
+      ]
+    },
+    {
+      "ID": "pi02",
+      "Label": "Demographic, geographical, and occupational profile of cases",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D001",
+        "D028",
+        "D132"
+      ]
+    },
+    {
+      "ID": "pi03",
+      "Label": "Virological characteristics and evolution of the pathogen",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D004",
+        "D022",
+        "D144"
+      ]
+    },
+    {
+      "ID": "pi04",
+      "Label": "Modes of transmission",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D001",
+        "D002",
+        "D022",
+        "D028",
+        "D144"
+      ]
+    },
+    {
+      "ID": "pi05",
+      "Label": "Presence of animal reservoirs and susceptibility of domestic and wild animal species",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D002",
+        "D010",
+        "D034",
+        "D133",
+        "D144"
+      ]
+    },
+    {
+      "ID": "pi06",
+      "Label": "Key epidemiological time intervals and transmission metrics",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D001",
+        "D002",
+        "D093",
+        "D132",
+        "D144"
+      ]
+    },
+    {
+      "ID": "pi07",
+      "Label": "Individual heterogeneity in infectiousness, susceptibility, and clinical severity",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring, Clinical",
+      "relatedDataNeeds": [
+        "D001",
+        "D003",
+        "D009",
+        "D014",
+        "D144"
+      ]
+    },
+    {
+      "ID": "pi08",
+      "Label": "Vaccination coverage and population immunity by region",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring, Prevenction",
+      "relatedDataNeeds": [
+        "D092",
+        "D093",
+        "D132"
+      ]
+    },
+    {
+      "ID": "pi09",
+      "Label": "Risk factors associated with severe outcomes in target groups",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring, Clinical, Prevention",
+      "relatedDataNeeds": [
+        "D003",
+        "D009",
+        "D014",
+        "D028",
+        "D092",
+        "D133"
+      ]
+    },
+    {
+      "ID": "pi10",
+      "Label": "Current and projected epidemic trends, including cases, hospitalisations, and deaths",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring, Clinical, Prevention",
+      "relatedDataNeeds": [
+        "D001",
+        "D003",
+        "D008",
+        "D009",
+        "D047",
+        "D050",
+        "D092",
+        "D093",
+        "D132"
+      ]
+    },
+    {
+      "ID": "pi11",
+      "Label": "Assessment of risk of pathogen introduction, local spread, and resurgence",
+      "Layer": "Situational awareness",
+      "Domain": "Epidemiological situation and risk surveillance",
+      "Topic": "Monitoring, Prevenction",
+      "relatedDataNeeds": [
+        "D004",
+        "D005",
+        "D010",
+        "D023",
+        "D024",
+        "D025",
+        "D026",
+        "D027",
+        "D050",
+        "D087",
+        "D088",
+        "D092",
+        "D093",
+        "D133",
+        "D144"
+      ]
+    },
+    {
+      "ID": "pi12",
+      "Label": "Epidemiological situation abroad and global epidemic status",
+      "Layer": "Situational awareness",
+      "Domain": "Mobility determinants and population behavior",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D005",
+        "D006",
+        "D007",
+        "D008",
+        "D032",
+        "D081"
+      ]
+    },
+    {
+      "ID": "pi13",
+      "Label": "Geographic spread and regional clustering",
+      "Layer": "Situational awareness",
+      "Domain": "Mobility determinants and population behavior",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D001",
+        "D002",
+        "D027",
+        "D132",
+        "D133"
+      ]
+    },
+    {
+      "ID": "pi14",
+      "Label": "Population mobility patterns and their relationship to transmission dynamics",
+      "Layer": "Situational awareness",
+      "Domain": "Mobility determinants and population behavior",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D024",
+        "D025",
+        "D027",
+        "D049",
+        "D084",
+        "D087",
+        "D088"
+      ]
+    },
+    {
+      "ID": "pi15",
+      "Label": "Behavioural and sociocultural factors influencing adherence to countermeasures",
+      "Layer": "Situational awareness",
+      "Domain": "Mobility determinants and population behavior",
+      "Topic": "Monitoring, Prevenction",
+      "relatedDataNeeds": [
+        "D020",
+        "D028",
+        "D071",
+        "D095"
+      ]
+    },
+    {
+      "ID": "pi16",
+      "Label": "Level of public compliance with measures ",
+      "Layer": "Situational awareness",
+      "Domain": "Mobility determinants and population behavior",
+      "Topic": "Monitoring, Prevenction",
+      "relatedDataNeeds": [
+        "D020",
+        "D027",
+        "D049",
+        "D092",
+        "D094"
+      ]
+    },
+    {
+      "ID": "pi17",
+      "Label": "Capacity and operational readiness for screening, quarantine, and contact tracing",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Monitoring, Prevenction",
+      "relatedDataNeeds": [
+        "D002",
+        "D022",
+        "D031",
+        "D134",
+        "D135",
+        "D136"
+      ]
+    },
+    {
+      "ID": "pi18",
+      "Label": "Presence, capacity, and performance of human health surveillance systems",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D001",
+        "D022",
+        "D032",
+        "D051",
+        "D052",
+        "D053",
+        "D054",
+        "D055",
+        "D056",
+        "D057",
+        "D096",
+        "D097",
+        "D098",
+        "D099",
+        "D100",
+        "D126"
+      ]
+    },
+    {
+      "ID": "pi19",
+      "Label": "Presence, capacity, and performance of animal health surveillance systems",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D010",
+        "D034",
+        "D051",
+        "D052",
+        "D053",
+        "D054",
+        "D055",
+        "D056",
+        "D057",
+        "D096",
+        "D097",
+        "D100"
+      ]
+    },
+    {
+      "ID": "pi20",
+      "Label": "Readiness of analytical capacity to access and integrate multiple data streams in real time",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D126",
+        "D140"
+      ]
+    },
+    {
+      "ID": "pi21",
+      "Label": "Performance of early warning surveillance indicators",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Monitoring",
+      "relatedDataNeeds": [
+        "D001",
+        "D022"
+      ]
+    },
+    {
+      "ID": "pi22",
+      "Label": "Turnaround time for test results and operational feasibility of diagnostic options",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Clinical",
+      "relatedDataNeeds": [
+        "D011",
+        "D021",
+        "D022",
+        "D137"
+      ]
+    },
+    {
+      "ID": "pi23",
+      "Label": "Available diagnostic test options with their specifications",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Clinical",
+      "relatedDataNeeds": [
+        "D011",
+        "D012"
+      ]
+    },
+    {
+      "ID": "pi24",
+      "Label": "Capacity to implement testing in the field, including accessibility",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Monitoring, Clinical",
+      "relatedDataNeeds": [
+        "D040",
+        "D041",
+        "D120"
+      ]
+    },
+    {
+      "ID": "pi25",
+      "Label": "Performance, quality, and integration of laboratory data",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Monitoring, Clinical",
+      "relatedDataNeeds": [
+        "D022",
+        "D038",
+        "D039",
+        "D126"
+      ]
+    },
+    {
+      "ID": "pi26",
+      "Label": "Laboratory workforce availability and training needs",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Clinical",
+      "relatedDataNeeds": [
+        "D035"
+      ]
+    },
+    {
+      "ID": "pi27",
+      "Label": "Stockpile levels of diagnostic kits and consumables",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Clinical",
+      "relatedDataNeeds": [
+        "D021"
+      ]
+    },
+    {
+      "ID": "pi28",
+      "Label": "Availability and remaining capacity of healthcare resources and essential services",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Clinical, Prevention",
+      "relatedDataNeeds": [
+        "D015",
+        "D016",
+        "D018",
+        "D058",
+        "D059",
+        "D060",
+        "D119",
+        "D124"
+      ]
+    },
+    {
+      "ID": "pi29",
+      "Label": "Healthcare system vulnerability and stress indicators",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Clinical, Prevention",
+      "relatedDataNeeds": [
+        "D009",
+        "D029",
+        "D030",
+        "D070",
+        "D106",
+        "D107",
+        "D108",
+        "D109",
+        "D124",
+        "D138"
+      ]
+    },
+    {
+      "ID": "pi30",
+      "Label": "Surge capacity plans and ability to deploy additional care capacity",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Clinical",
+      "relatedDataNeeds": [
+        "D017",
+        "D031",
+        "D066",
+        "D067",
+        "D068",
+        "D069",
+        "D070",
+        "D113",
+        "D114",
+        "D115",
+        "D116",
+        "D117",
+        "D118",
+        "D124",
+        "D127",
+        "D139"
+      ]
+    },
+    {
+      "ID": "pi31",
+      "Label": "Impact of cancelling or postponing non-essential medical activities",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Clinical",
+      "relatedDataNeeds": [
+        "D101",
+        "D103",
+        "D105",
+        "D106",
+        "D107",
+        "D108",
+        "D109",
+        "D110",
+        "D112",
+        "D138"
+      ]
+    },
+    {
+      "ID": "pi32",
+      "Label": "Cross-border patient transfer capacity and international healthcare coordination",
+      "Layer": "System and response readiness",
+      "Domain": "Operational readiness and delivery capacity",
+      "Topic": "Clinical",
+      "relatedDataNeeds": [
+        "D008",
+        "D032",
+        "D033"
+      ]
+    },
+    {
+      "ID": "pi33",
+      "Label": "Inventory levels, availability, and accessibility of pharmaceutical and non-pharmaceutical prevention tools, including PPE",
+      "Layer": "System and response readiness",
+      "Domain": "Medical countermeasures, stockpiles, and supply chains",
+      "Topic": "Clinical, Prevention",
+      "relatedDataNeeds": [
+        "D019",
+        "D021",
+        "D047",
+        "D077"
+      ]
+    },
+    {
+      "ID": "pi34",
+      "Label": "Supply chain reliability, resilience, and delivery timelines",
+      "Layer": "System and response readiness",
+      "Domain": "Medical countermeasures, stockpiles, and supply chains",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D036",
+        "D037",
+        "D060",
+        "D061"
+      ]
+    },
+    {
+      "ID": "pi35",
+      "Label": "Storage requirements and shelf-life of of pharmaceutical and non-pharmaceutical prevention tools, including PPE",
+      "Layer": "System and response readiness",
+      "Domain": "Medical countermeasures, stockpiles, and supply chains",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D019",
+        "D021",
+        "D047",
+        "D092"
+      ]
+    },
+    {
+      "ID": "pi36",
+      "Label": "Costs and funding mechanisms available for procurement of pharmaceutical and non-pharmaceutical prevention tools ",
+      "Layer": "System and response readiness",
+      "Domain": "Medical countermeasures, stockpiles, and supply chains",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D019",
+        "D047",
+        "D100"
+      ]
+    },
+    {
+      "ID": "pi37",
+      "Label": "Forecasted demand for prevention tools and PPE based on projected caseloads",
+      "Layer": "System and response readiness",
+      "Domain": "Medical countermeasures, stockpiles, and supply chains",
+      "Topic": "Clinical, Prevention",
+      "relatedDataNeeds": [
+        "D001",
+        "D005",
+        "D006",
+        "D007",
+        "D019",
+        "D047",
+        "D076",
+        "D092"
+      ]
+    },
+    {
+      "ID": "pi38",
+      "Label": "Breakdown of prevention tool needs by type and target group",
+      "Layer": "System and response readiness",
+      "Domain": "Medical countermeasures, stockpiles, and supply chains",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D042",
+        "D043",
+        "D062",
+        "D063",
+        "D066",
+        "D076"
+      ]
+    },
+    {
+      "ID": "pi39",
+      "Label": "Distribution and allocation strategies for  pharmaceutical and non-pharmaceutical prevention tools, including PPE",
+      "Layer": "System and response readiness",
+      "Domain": "Medical countermeasures, stockpiles, and supply chains",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D042",
+        "D062",
+        "D063",
+        "D064",
+        "D065",
+        "D077"
+      ]
+    },
+    {
+      "ID": "pi40",
+      "Label": "Waste management and environmental impact related to PPE use",
+      "Layer": "System and response readiness",
+      "Domain": "Medical countermeasures, stockpiles, and supply chains",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D125",
+        "D128",
+        "D129",
+        "D130",
+        "D131"
+      ]
+    },
+    {
+      "ID": "pi41",
+      "Label": "Target population groups and estimated size for possible interventions",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D013",
+        "D042",
+        "D043",
+        "D044",
+        "D062",
+        "D066",
+        "D132"
+      ]
+    },
+    {
+      "ID": "pi42",
+      "Label": "Sociodemographic characteristics of target groups",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D028",
+        "D042",
+        "D062",
+        "D066"
+      ]
+    },
+    {
+      "ID": "pi43",
+      "Label": "Evidence of effectiveness for pharmaceutical and non-pharmaceutical prevention strategies",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D013",
+        "D044",
+        "D045",
+        "D046"
+      ]
+    },
+    {
+      "ID": "pi44",
+      "Label": "Expected impact of interventions under different scenarios",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Monitoring, Prevention",
+      "relatedDataNeeds": [
+        "D008",
+        "D013",
+        "D044"
+      ]
+    },
+    {
+      "ID": "pi45",
+      "Label": "Effectiveness of interventions by target group",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D042",
+        "D044",
+        "D045",
+        "D046",
+        "D062"
+      ]
+    },
+    {
+      "ID": "pi46",
+      "Label": "Implementation feasibility in different contexts",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D027",
+        "D028",
+        "D065",
+        "D074",
+        "D075",
+        "D113",
+        "D120",
+        "D132",
+        "D133"
+      ]
+    },
+    {
+      "ID": "pi47",
+      "Label": "Capacity and readiness of local systems to implement prevention measures",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D066",
+        "D074",
+        "D082",
+        "D083",
+        "D089",
+        "D090"
+      ]
+    },
+    {
+      "ID": "pi48",
+      "Label": "Alignment with international recommendations and standards",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D072",
+        "D073"
+      ]
+    },
+    {
+      "ID": "pi49",
+      "Label": "Legal and ethical considerations related to interventions",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D102",
+        "D104",
+        "D111"
+      ]
+    },
+    {
+      "ID": "pi50",
+      "Label": "Criteria and thresholds for scaling up, maintaining, or scaling down response measures",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Intervention design, effectiveness, and feasibility",
+      "Topic": "Monitoring, Clinical, Prevention",
+      "relatedDataNeeds": [
+        "D032",
+        "D033",
+        "D072"
+      ]
+    },
+    {
+      "ID": "pi51",
+      "Label": "People\u2019s perception and acceptability of interventions, treatments, and measures",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Societal impact and proportionality",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D020",
+        "D071",
+        "D095"
+      ]
+    },
+    {
+      "ID": "pi52",
+      "Label": "Results of socioeconomic impact assessments",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Societal impact and proportionality",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D082",
+        "D083",
+        "D085",
+        "D086",
+        "D089",
+        "D090",
+        "D091",
+        "D095"
+      ]
+    },
+    {
+      "ID": "pi53",
+      "Label": "Results of mental health impact assessments",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Societal impact and proportionality",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D078",
+        "D079",
+        "D080",
+        "D124",
+        "D141"
+      ]
+    },
+    {
+      "ID": "pi54",
+      "Label": "Measure of burden or benefit ratio of response measures",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Societal impact and proportionality",
+      "Topic": "Prevention, Clinical",
+      "relatedDataNeeds": [
+        "D013",
+        "D044",
+        "D078",
+        "D086",
+        "D101",
+        "D103",
+        "D106",
+        "D108",
+        "D109",
+        "D142"
+      ]
+    },
+    {
+      "ID": "pi55",
+      "Label": "Impact of measures on access to work and essential services",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Societal impact and proportionality",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D048",
+        "D082",
+        "D083",
+        "D086",
+        "D089",
+        "D090",
+        "D091"
+      ]
+    },
+    {
+      "ID": "pi56",
+      "Label": "Identification and profiling of vulnerable populations",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Societal impact and proportionality",
+      "Topic": "Monitoring, Clinical, Prevention",
+      "relatedDataNeeds": [
+        "D014",
+        "D028",
+        "D078",
+        "D089",
+        "D090",
+        "D121",
+        "D122",
+        "D123"
+      ]
+    },
+    {
+      "ID": "pi57",
+      "Label": "Mapping of community and civil society structures",
+      "Layer": "Decision translation and societal context",
+      "Domain": "Societal impact and proportionality",
+      "Topic": "Prevention",
+      "relatedDataNeeds": [
+        "D089",
+        "D090",
+        "D123",
+        "D143"
+      ]
+    }
+  ],
+  "dataneeds": [
+    {
+      "ID": "D001",
+      "Label": "Individual case data",
+      "Description": "One row by case, pseudonymized linkabe data, including: date of diagnostic, onset of symptoms, symptoms description, age, sex, geographical area, imported case identifier, cluster ID, Individual identifier)",
+      "relatedDatasets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "10",
+        "29",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "ID": "D002",
+      "Label": "Contact-level exposure data",
+      "Description": "One row by contact, pseudonymized linkable data, including: context of contact/setting, last exposure date, travel history, date of recovery, link to confirmed case, cluster identifier, exposure via animals if relevant",
+      "relatedDatasets": [
+        "10",
+        "33"
+      ]
+    },
+    {
+      "ID": "D003",
+      "Label": "Individual mortality records",
+      "Description": "One row by death, pseudonymized linkable data, including information on geographical area, sex, age, cause of death",
+      "relatedDatasets": [
+        "5",
+        "7",
+        "20",
+        "21",
+        "29"
+      ]
+    },
+    {
+      "ID": "D004",
+      "Label": "Genomic sequencing database",
+      "Description": "Sequencing and corresponding metadata (date, location, host species), variant lineage classification",
+      "relatedDatasets": [
+        "12",
+        "32",
+        "62"
+      ]
+    },
+    {
+      "ID": "D005",
+      "Label": "Number of new cases by country",
+      "Description": "By date",
+      "relatedDatasets": [
+        "11",
+        "37",
+        "47",
+        "48",
+        "54",
+        "63"
+      ]
+    },
+    {
+      "ID": "D006",
+      "Label": "Number of new hospitalisations by country",
+      "Description": "By date",
+      "relatedDatasets": [
+        "11",
+        "47",
+        "54"
+      ]
+    },
+    {
+      "ID": "D007",
+      "Label": "Number of deaths by country",
+      "Description": "By date",
+      "relatedDatasets": [
+        "37",
+        "42",
+        "47",
+        "51",
+        "54"
+      ]
+    },
+    {
+      "ID": "D008",
+      "Label": "Intervention (medical counter measure or non-pharmaceutical intervention) by country",
+      "Description": "Type of intervention, start and end date, country of implementation",
+      "relatedDatasets": [
+        "46",
+        "54"
+      ]
+    },
+    {
+      "ID": "D009",
+      "Label": "Hospitalisation records",
+      "Description": "One row by hospitalisation, pseudonymized linkabe data, including: institution, age, sex, geographical area, comorbidities, date of admission, date of discharge, date of ICU admission, date of ICU discharge, date of death, date of transfer",
+      "relatedDatasets": [
+        "2",
+        "4",
+        "18",
+        "29",
+        "31"
+      ]
+    },
+    {
+      "ID": "D010",
+      "Label": "Laboratory tests (in animals) records",
+      "Description": "One row by test including: test result, species, geographical location of animal herding/capture or sampling, type of test, date of sampling, laboratory code",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D011",
+      "Label": "Diagnostic test characteristics",
+      "Description": "Including test sensitivity, specificity, limit of detection",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D012",
+      "Label": "Diagnostic test regulatory approval",
+      "Description": "type of test with approval date",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D013",
+      "Label": "Intervention assessment outcomes",
+      "Description": "Including study design, type of measure, comparator/control group specifications, effect size, efficacy. Apply to both therapeutic and NPI",
+      "relatedDatasets": [
+        "46"
+      ]
+    },
+    {
+      "ID": "D014",
+      "Label": "Reimbursed medication data",
+      "Description": "Pseudonymized linkable data, including: sex, age, presence of comorbidities, immunocomproside status, pregnancy status.",
+      "relatedDatasets": [
+        "6"
+      ]
+    },
+    {
+      "ID": "D015",
+      "Label": "Number of ICU beds",
+      "Description": "Granularity: hospital level, also include extension capacity within X hours. Total and real-time availability",
+      "relatedDatasets": [
+        "18",
+        "31"
+      ]
+    },
+    {
+      "ID": "D016",
+      "Label": "Number of general ward beds",
+      "Description": "Granularity: hospital level, also include extension capacity within X hours. Total and real-time availability",
+      "relatedDatasets": [
+        "18",
+        "31"
+      ]
+    },
+    {
+      "ID": "D017",
+      "Label": "Number of surge capacity beds",
+      "Description": "Granularity: hospital level, also include extension capacity within X hours. Total and real-time availability",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D018",
+      "Label": "Number of trained ICU staff available",
+      "Description": "Granularity: hospital level, also include extension capacity within X hours. Total and real-time availability",
+      "relatedDatasets": [
+        "27"
+      ]
+    },
+    {
+      "ID": "D019",
+      "Label": "Equipment inventory data",
+      "Description": "Daily updated stock, Including: PPE category (masks by type, gloves, gowns), expiration date, storage conditions",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D020",
+      "Label": "Survey data on adherence to intervention",
+      "Description": "Assessing willingness to comply, perceived effectiveness, barriers to adoption, and trust in authorities",
+      "relatedDatasets": [
+        "24",
+        "25",
+        "26",
+        "44"
+      ]
+    },
+    {
+      "ID": "D021",
+      "Label": "Diagnostic tests inventory data",
+      "Description": "Daily updated stock, including: type of material (PCR, antigneic kit, reagents, nasopharyngeal swab), expiration date. Required at national and subnational levels",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D022",
+      "Label": "Laboratory test records",
+      "Description": "One row by test, pseudonymized linkabe data, including: date of sampling, date of test, date of entry, type of test, prescription reason, prescriber, test performer, test result, laboratory code",
+      "relatedDatasets": [
+        "1",
+        "3",
+        "29",
+        "32"
+      ]
+    },
+    {
+      "ID": "D023",
+      "Label": "Number of imported live animals",
+      "Description": "By species and by country of origin",
+      "relatedDatasets": [
+        "58"
+      ]
+    },
+    {
+      "ID": "D024",
+      "Label": "Number of international air arrivals",
+      "Description": "",
+      "relatedDatasets": [
+        "58"
+      ]
+    },
+    {
+      "ID": "D025",
+      "Label": "Number of land border crossings",
+      "Description": "",
+      "relatedDatasets": [
+        "58"
+      ]
+    },
+    {
+      "ID": "D026",
+      "Label": "Number of border closures",
+      "Description": "Not limited to crisis-related",
+      "relatedDatasets": [
+        "46"
+      ]
+    },
+    {
+      "ID": "D027",
+      "Label": "Mobility data",
+      "Description": "From mobile device logs, geolocalization data, public transport boardings",
+      "relatedDatasets": [
+        "22",
+        "23"
+      ]
+    },
+    {
+      "ID": "D028",
+      "Label": "Socio-demographic data",
+      "Description": "Pseudonymized linkable data, includig: age, sex, geographical area, household composition, migration background, occupation",
+      "relatedDatasets": [
+        "7",
+        "41",
+        "64",
+        "66"
+      ]
+    },
+    {
+      "ID": "D029",
+      "Label": "Clinical staff on duty",
+      "Description": "Granularity: hospital level, count by shift",
+      "relatedDatasets": [
+        "27"
+      ]
+    },
+    {
+      "ID": "D030",
+      "Label": "Clinical staff absent",
+      "Description": "Granularity: hospital level, count by shift",
+      "relatedDatasets": [
+        "57"
+      ]
+    },
+    {
+      "ID": "D031",
+      "Label": "Number of isolation/quarantine beds",
+      "Description": "Granularity: institution level, also include extension capacity within X hours, total and real-time",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D032",
+      "Label": "WHO pandemic phase criteria",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D033",
+      "Label": "Benchmark indicators for transfer and coordination from EU",
+      "Description": "",
+      "relatedDatasets": [
+        "43",
+        "69"
+      ]
+    },
+    {
+      "ID": "D034",
+      "Label": "Livestock and flock data",
+      "Description": "Livestock density (animals per km\u00b2), number of flocks, farm density, access to wildlife by species. Required at subnational level",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D035",
+      "Label": "Laboratory staff register",
+      "Description": "List of laboratory staff with occupation, date of last training, competency areas, and work location (by institution)",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D036",
+      "Label": "Count of delayed or incomplete deliveries for reagents/equipment (supplier to institution)",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D037",
+      "Label": "Supplier performance rating",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D038",
+      "Label": "External quality assessment of laboratories",
+      "Description": "Pass rate and outcome summary",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D039",
+      "Label": "Frequency of lab audits",
+      "Description": "Per year",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D040",
+      "Label": "Average travel distance to nearest testing facility",
+      "Description": "By geographical area",
+      "relatedDatasets": [
+        "38"
+      ]
+    },
+    {
+      "ID": "D041",
+      "Label": "Out-of-pocket testing cost as percentage of income",
+      "Description": "",
+      "relatedDatasets": [
+        "7"
+      ]
+    },
+    {
+      "ID": "D042",
+      "Label": "National prioritization criteria list",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D043",
+      "Label": "Population size of target groups",
+      "Description": "By age, sex and geographical area (national and subnational)",
+      "relatedDatasets": [
+        "6",
+        "7",
+        "38"
+      ]
+    },
+    {
+      "ID": "D044",
+      "Label": "Real-world effectiveness of interventions ",
+      "Description": "By  target group",
+      "relatedDatasets": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "15",
+        "16",
+        "17"
+      ]
+    },
+    {
+      "ID": "D045",
+      "Label": "Proportion of population eligible for intervention",
+      "Description": "",
+      "relatedDatasets": [
+        "6",
+        "7",
+        "27",
+        "38",
+        "61"
+      ]
+    },
+    {
+      "ID": "D046",
+      "Label": "Rate of adverse events per medical counter measure",
+      "Description": "",
+      "relatedDatasets": [
+        "6",
+        "15",
+        "16",
+        "17"
+      ]
+    },
+    {
+      "ID": "D047",
+      "Label": "Drug inventory data",
+      "Description": "Daily updated stock, including: drug product, expiration date, storage conditions, unit cost",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D048",
+      "Label": "Proportion of population working remotely",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D049",
+      "Label": "Number of reported large gatherings",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D050",
+      "Label": "Weather data",
+      "Description": "Daily update",
+      "relatedDatasets": [
+        "50"
+      ]
+    },
+    {
+      "ID": "D051",
+      "Label": "Date of last system readiness assessment",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D052",
+      "Label": "Proportion of systems scoring \u201cready\u201d",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D053",
+      "Label": "List of gaps identified during last system assessment",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D054",
+      "Label": "Number of corrective actions completed",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D055",
+      "Label": "Gap category (workforce, supply chain, governance)",
+      "Description": "Requires standardised categories",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D056",
+      "Label": "Average time to address identified gaps",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D057",
+      "Label": "Percentage of gaps still unresolved",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D058",
+      "Label": "Number of ventilators available and functional",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D059",
+      "Label": "Count of oxygen cylinders available",
+      "Description": "By institution",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D060",
+      "Label": "Average delivery time from central stock to institution",
+      "Description": "For reagents and equipment",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D061",
+      "Label": "Number of reported supply chain disruptions",
+      "Description": "For reagents and equipment",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D062",
+      "Label": "Target groups identified from national prioritisation policy",
+      "Description": "By category: HCWs, elderly, etc.",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D063",
+      "Label": "Allocated stock per target group",
+      "Description": "For pharmaceutical and non-pharmaceutical prevention tools, including PPE",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D064",
+      "Label": "Deviation from prioritization observed",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D065",
+      "Label": "Existence of allocation mechanism from national preparedness plan",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D066",
+      "Label": "Healthcare worker register",
+      "Description": "Pseudonymized linkable data, including: occupation, speciality, institution",
+      "relatedDatasets": [
+        "27"
+      ]
+    },
+    {
+      "ID": "D067",
+      "Label": "Existence of triage protocol",
+      "Description": "With protocol version date",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D068",
+      "Label": "Number of institutions applying triage protocol",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D069",
+      "Label": "Number of ambulances",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D070",
+      "Label": "Average response time to emergency calls",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D071",
+      "Label": "Survey data on acceptance of implemented measures",
+      "Description": "Assessing trust in health authorities, reasons for refusal or delay, adherence to preventive measures, cultural practices affecting adherence, social or economic barriers",
+      "relatedDatasets": [
+        "24",
+        "25",
+        "26",
+        "44"
+      ]
+    },
+    {
+      "ID": "D072",
+      "Label": "Number of interventions aligned with WHO/ECDC guidance",
+      "Description": "Based on reference list of interventions",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D073",
+      "Label": "Proportion of implemented measures consistent with international standards",
+      "Description": "Based on reference list of interventions",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D074",
+      "Label": "Number of local health institutions equipped to deliver interventions",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D075",
+      "Label": "Percentage of institutions reporting logistics bottlenecks",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D076",
+      "Label": "Projected equipment demand",
+      "Description": "Daily projected demand, including: PPE category (masks by type, gloves, gowns)",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D077",
+      "Label": "Proportion of fulfilled requests of equipment",
+      "Description": "By institution, including PPE, therapeutics, both partially or fully fulfilled",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D078",
+      "Label": "Prevalence of reported anxiety/depression",
+      "Description": "Tracked over time",
+      "relatedDatasets": [
+        "25",
+        "26",
+        "52"
+      ]
+    },
+    {
+      "ID": "D079",
+      "Label": "Utilization of mental health services",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D080",
+      "Label": "School absenteeism rate",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D081",
+      "Label": "Travel and public health advisories issued by other countries",
+      "Description": "Issuing country, date, restriction type, withdrawal date",
+      "relatedDatasets": [
+        "46"
+      ]
+    },
+    {
+      "ID": "D082",
+      "Label": "Proportion of population with online access to essential services",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D083",
+      "Label": "Proportion of population with access to delivery services",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D084",
+      "Label": "Passenger volume by transport mode",
+      "Description": "",
+      "relatedDatasets": [
+        "22",
+        "58"
+      ]
+    },
+    {
+      "ID": "D085",
+      "Label": "Monthly freight/trade volume",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D086",
+      "Label": "Count of job losses by sector",
+      "Description": "",
+      "relatedDatasets": [
+        "65",
+        "66"
+      ]
+    },
+    {
+      "ID": "D087",
+      "Label": "Travel history",
+      "Description": "Date of entry, country of origin, transport mode, journey duration",
+      "relatedDatasets": [
+        "10",
+        "33",
+        "58"
+      ]
+    },
+    {
+      "ID": "D088",
+      "Label": "Positive test on arrival",
+      "Description": "All tests performed on arrival, with positive/negative result",
+      "relatedDatasets": [
+        "3",
+        "33",
+        "58"
+      ]
+    },
+    {
+      "ID": "D089",
+      "Label": "Average staff-to-beneficiary ratio in social services",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D090",
+      "Label": "Percentage of service coverage for vulnerable groups",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D091",
+      "Label": "Number with reported shortages in essential goods",
+      "Description": "Per households or individuals",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D092",
+      "Label": "Vaccine dose administration records",
+      "Description": "One row by vaccine dose, pseudonymized linkable data, including: age, sex, geographical area, vaccine product, vaccine administration setup",
+      "relatedDatasets": [
+        "15",
+        "16",
+        "17",
+        "29",
+        "35"
+      ]
+    },
+    {
+      "ID": "D093",
+      "Label": "Seroprevalence",
+      "Description": "By regional level, age groups, sex",
+      "relatedDatasets": [
+        "13",
+        "14",
+        "40"
+      ]
+    },
+    {
+      "ID": "D094",
+      "Label": "Duration of containment measure",
+      "Description": "",
+      "relatedDatasets": [
+        "46",
+        "54"
+      ]
+    },
+    {
+      "ID": "D095",
+      "Label": "Public survey responses on perceived social impact",
+      "Description": "",
+      "relatedDatasets": [
+        "24",
+        "25",
+        "26",
+        "44"
+      ]
+    },
+    {
+      "ID": "D096",
+      "Label": "Baseline laboratory diagnostic testing capacity",
+      "Description": "Samples/day under routine conditions",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D097",
+      "Label": "Count of laboratories maintaining pathogen-specific diagnostic capability",
+      "Description": "Including animal laboratories",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D098",
+      "Label": "Baseline genomic sequencing capacity",
+      "Description": "Samples/week",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D099",
+      "Label": "Number of trained field epidemiologists",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D100",
+      "Label": "Annual pandemic funding level",
+      "Description": "For surveillance, pharmaceutical and non-pharmaceutical prevention tools",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D101",
+      "Label": "Number of elective surgeries postponed",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D102",
+      "Label": "Existence and type of legal basis for intervention ",
+      "Description": "Yes/no + legal instrument type",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D103",
+      "Label": "Number of outpatient appointments cancelled",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D104",
+      "Label": "Intervention listing impact and legal aspects",
+      "Description": "Including type of legal text, date and validity period, geographical scope, level of restriction, documentation of proportionality, impact on fundamental rights, ethical assesment performed",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D105",
+      "Label": "Number of diagnostic procedures postponed",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D106",
+      "Label": "Median waiting time for elective surgery",
+      "Description": "In days",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D107",
+      "Label": "Median waiting time for specialist consultation",
+      "Description": "In days",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D108",
+      "Label": "Number of emergency admissions for conditions previously deferred",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D109",
+      "Label": "Proportion of late-stage diagnoses for selected conditions",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D110",
+      "Label": "Number of additional operating sessions scheduled to reduce backlog ",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D111",
+      "Label": "Existence of individual Appeals or redress mechanism for persons affected",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D112",
+      "Label": "Percentage of procedures completed vs postponed",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D113",
+      "Label": "Deployment time from request to operational status",
+      "Description": "In hours",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D114",
+      "Label": "Number of licensed isolation rooms available and functional",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D115",
+      "Label": "Number of staff pre-assigned to surge or modular units",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D116",
+      "Label": "Proportion of modular units compliant with WHO IPC biosafety standards",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D117",
+      "Label": "Average operational duration of modular units without resupply",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D118",
+      "Label": "Hand hygiene stations functional",
+      "Description": "Per institution",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D119",
+      "Label": "Number of negative pressure rooms available and functional",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D120",
+      "Label": "Proportion of population within defined access radius",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D121",
+      "Label": "Number of households reporting food insecurity",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D122",
+      "Label": "Number of households with risk of eviction or homelessness",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D123",
+      "Label": "Number of active social service centers",
+      "Description": "Per geographical area",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D124",
+      "Label": "Percentage of healthcare staff absenteeism",
+      "Description": "By type of reason (illness, quarantine, etc.)",
+      "relatedDatasets": [
+        "57"
+      ]
+    },
+    {
+      "ID": "D125",
+      "Label": "Percentage of waste safely treated and disposed",
+      "Description": "",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D126",
+      "Label": "Number of health institutions using standardized formats for data reporting",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D127",
+      "Label": "Geographic coverage of deployable modular units",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D128",
+      "Label": "Proportion of institutions with waste segregation in practice",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D129",
+      "Label": "Frequency of biomedical waste collection",
+      "Description": "Per week",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D130",
+      "Label": "Availability of functional incinerators",
+      "Description": "Count per institution",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D131",
+      "Label": "Number of reported breaches in waste disposal protocols",
+      "Description": "Requires standardised definition of breach",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D132",
+      "Label": "Population size",
+      "Description": "National (including various geographical area, age and sex) and international level",
+      "relatedDatasets": [
+        "7",
+        "38"
+      ]
+    },
+    {
+      "ID": "D133",
+      "Label": "Spatial data (geographical boundaries of territorial units)",
+      "Description": "For various geographical levels, required for generation of maps, including wildlife habitat maps, livestock farm locations, and wildlife-livestock interface areas",
+      "relatedDatasets": [
+        "68"
+      ]
+    },
+    {
+      "ID": "D134",
+      "Label": "Home and hotel quarantine capacity",
+      "Description": "Number of designated quarantine places by type and location",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D135",
+      "Label": "Number and location of testing facilities",
+      "Description": "Including airport and border testing points",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D136",
+      "Label": "Number of staff dedicated to contact tracing",
+      "Description": " By institution and region",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D137",
+      "Label": "Diagnostic test production capacity",
+      "Description": "Units per day by manufacturer and test type",
+      "relatedDatasets": [
+        "GAP"
+      ]
+    },
+    {
+      "ID": "D138",
+      "Label": "Primary care activity data",
+      "Description": "GP consultation rates, primary care capacity and appointment data",
+      "relatedDatasets": [
+        "8",
+        "9",
+        "34",
+        "49"
+      ]
+    },
+    {
+      "ID": "D139",
+      "Label": "Cross-sector surge support capacity",
+      "Description": "Veterinary, military, and private sector equipment and staff available for medical surge",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D140",
+      "Label": "Analytical capacity and data integration assessment output",
+      "Description": "Data linkage capability, interoperability standards, governance framework, analytical workforce",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D141",
+      "Label": "General population work absenteeism rate",
+      "Description": "",
+      "relatedDatasets": [
+        "57",
+        "65",
+        "66"
+      ]
+    },
+    {
+      "ID": "D142",
+      "Label": "Economic evaluation and cost-effectiveness of interventions ",
+      "Description": "Cost per outcome avoided, by intervention type",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D143",
+      "Label": "Funding status and continuity of community and civil society organisations",
+      "Description": "",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    },
+    {
+      "ID": "D144",
+      "Label": "In-vitro virological characteristics",
+      "Description": "Including infectivity experiments in animals",
+      "relatedDatasets": [
+        "Not mapped"
+      ]
+    }
+  ],
+  "datasets": [
+    {
+      "id": "DS001",
+      "name": "EPILABO",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS002",
+      "name": "SARI",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS003",
+      "name": "The COVID-19 Test Results data collection",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS004",
+      "name": "Clinical Hospital Survey",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS005",
+      "name": "RN Consult",
+      "detailLevel": "nominative",
+      "accessibility": "restricted",
+      "category": "other"
+    },
+    {
+      "id": "DS006",
+      "name": "IMA",
+      "detailLevel": "pseudonymized",
+      "accessibility": "restricted",
+      "category": "population factor"
+    },
+    {
+      "id": "DS007",
+      "name": "DEMOBEL",
+      "detailLevel": "pseudonymized",
+      "accessibility": "requestable",
+      "category": "population factor"
+    },
+    {
+      "id": "DS008",
+      "name": "INFBARO",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS009",
+      "name": "COVID-19 Barometer",
+      "detailLevel": "case based",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS010",
+      "name": "Contact Tracing",
+      "detailLevel": "pseudonymized",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS011",
+      "name": "ERVISS",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "traditional"
+    },
+    {
+      "id": "DS012",
+      "name": "GISAID",
+      "detailLevel": "aggregated",
+      "accessibility": "requestable",
+      "category": "pathogen characteristic"
+    },
+    {
+      "id": "DS013",
+      "name": "SalivaHIS",
+      "detailLevel": "longitudinal follow-up",
+      "accessibility": "restricted",
+      "category": "population factor"
+    },
+    {
+      "id": "DS014",
+      "name": "SARS-CoV-2 HCW",
+      "detailLevel": "longitudinal follow-up",
+      "accessibility": "restricted",
+      "category": "population factor"
+    },
+    {
+      "id": "DS015",
+      "name": "VACCINNET+",
+      "detailLevel": "nominative",
+      "accessibility": "restricted",
+      "category": "programmatic"
+    },
+    {
+      "id": "DS016",
+      "name": "VACCINNET",
+      "detailLevel": "pseudonymized",
+      "accessibility": "restricted",
+      "category": "programmatic"
+    },
+    {
+      "id": "DS017",
+      "name": "VACCICARD",
+      "detailLevel": "nominative",
+      "accessibility": "restricted",
+      "category": "programmatic"
+    },
+    {
+      "id": "DS018",
+      "name": "Surge Capacity Survey",
+      "detailLevel": "aggregated",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS019",
+      "name": "ILI-NH",
+      "detailLevel": "aggregated",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS020",
+      "name": "Be-MOMO NH",
+      "detailLevel": "aggregated",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS021",
+      "name": "Be-MOMO",
+      "detailLevel": "aggregated",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS022",
+      "name": "Google mobility",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS023",
+      "name": "Telephony mobility",
+      "detailLevel": "aggregated",
+      "accessibility": "requestable",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS024",
+      "name": "CoMix",
+      "detailLevel": "longitudinal follow-up",
+      "accessibility": "opendata",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS025",
+      "name": "COVID19HIS",
+      "detailLevel": "longitudinal follow-up",
+      "accessibility": "restricted",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS026",
+      "name": "BELHEALTH",
+      "detailLevel": "longitudinal follow-up",
+      "accessibility": "restricted",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS027",
+      "name": "CoBRHA",
+      "detailLevel": "nominative",
+      "accessibility": "restricted",
+      "category": "other"
+    },
+    {
+      "id": "DS028",
+      "name": "CoVWWSurv",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "population factor"
+    },
+    {
+      "id": "DS029",
+      "name": "COVID-19 opendata",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "traditional"
+    },
+    {
+      "id": "DS030",
+      "name": "Infectieradar",
+      "detailLevel": "longitudinal follow-up",
+      "accessibility": "requestable",
+      "category": "traditional"
+    },
+    {
+      "id": "DS031",
+      "name": "Minimal hospital data",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS032",
+      "name": "NRC surveillance",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS033",
+      "name": "Mandatory notifications",
+      "detailLevel": "aggregated",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS034",
+      "name": "SGPs",
+      "detailLevel": "aggregated",
+      "accessibility": "restricted",
+      "category": "traditional"
+    },
+    {
+      "id": "DS035",
+      "name": "e-vax",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "programmatic"
+    },
+    {
+      "id": "DS036",
+      "name": "Flemish social contact survey",
+      "detailLevel": "longitudinal follow-up",
+      "accessibility": "opendata",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS037",
+      "name": "ourworldindata",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "other"
+    },
+    {
+      "id": "DS038",
+      "name": "Structure of the population",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "other"
+    },
+    {
+      "id": "DS039",
+      "name": "WorldPop",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "other"
+    },
+    {
+      "id": "DS040",
+      "name": "Seroprevalence SARS-CoV-2 residual samples",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "Population factor"
+    },
+    {
+      "id": "DS041",
+      "name": "Synthetic population data for Belgium",
+      "detailLevel": "individual",
+      "accessibility": "opendata",
+      "category": "other"
+    },
+    {
+      "id": "DS042",
+      "name": "Human Mortality Database",
+      "detailLevel": "aggregated",
+      "accessibility": "requestable",
+      "category": "other"
+    },
+    {
+      "id": "DS043",
+      "name": "Eurostat database",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "other"
+    },
+    {
+      "id": "DS044",
+      "name": "The Great Corona Study",
+      "detailLevel": "longitudinal survey",
+      "accessibility": "requestable",
+      "category": "other"
+    },
+    {
+      "id": "DS045",
+      "name": "UNdata",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "other"
+    },
+    {
+      "id": "DS046",
+      "name": "OxCGRT",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "programmatic"
+    },
+    {
+      "id": "DS047",
+      "name": "COVID-19 Data Repository CSSE",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "traditional"
+    },
+    {
+      "id": "DS048",
+      "name": "Google Health COVID-19 Open Data Repository",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "other"
+    },
+    {
+      "id": "DS049",
+      "name": "Intego",
+      "detailLevel": "case-based",
+      "accessibility": "restricted",
+      "category": "Traditional"
+    },
+    {
+      "id": "DS050",
+      "name": "KMI-IRM opendata",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "Other"
+    },
+    {
+      "id": "DS051",
+      "name": "EuroMOMO",
+      "detailLevel": "aggregated",
+      "accessibility": "requestable",
+      "category": "Traditional"
+    },
+    {
+      "id": "DS052",
+      "name": "COVIMPACT",
+      "detailLevel": "longitudal survey",
+      "accessibility": "requestable",
+      "category": "Population factor"
+    },
+    {
+      "id": "DS053",
+      "name": "CovsirPhy",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "other"
+    },
+    {
+      "id": "DS054",
+      "name": "COVID-19 Data Hub",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "traditional"
+    },
+    {
+      "id": "DS055",
+      "name": "RespiCAST",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "traditional"
+    },
+    {
+      "id": "DS056",
+      "name": "POLYMOD",
+      "detailLevel": "aggregated",
+      "accessibility": "requestable",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS057",
+      "name": "Medex",
+      "detailLevel": "",
+      "accessibility": "restricted",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS058",
+      "name": "Saniport",
+      "detailLevel": "",
+      "accessibility": "restricted",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS059",
+      "name": "Google trends",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "behavioral"
+    },
+    {
+      "id": "DS060",
+      "name": "HDA Data Catalogue",
+      "detailLevel": "metadata",
+      "accessibility": "opendata",
+      "category": "other"
+    },
+    {
+      "id": "DS061",
+      "name": "IMA Atlas",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "population factor"
+    },
+    {
+      "id": "DS062",
+      "name": "European Genomic Data",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "pathogen characteristic"
+    },
+    {
+      "id": "DS063",
+      "name": "ECDC ATLAS",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "traditional"
+    },
+    {
+      "id": "DS064",
+      "name": "Belgian Index of Multiple Deprivation",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "population factor"
+    },
+    {
+      "id": "DS065",
+      "name": "Datawarehouse labour market and social protection (open)",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "population factor"
+    },
+    {
+      "id": "DS066",
+      "name": "Datawarehouse labour market and social protection (access)",
+      "detailLevel": "pseudonymized",
+      "accessibility": "requestable",
+      "category": "population factor"
+    },
+    {
+      "id": "DS067",
+      "name": "Motivation barometer",
+      "detailLevel": "aggregated",
+      "accessibility": "requestable",
+      "category": "population factor"
+    },
+    {
+      "id": "DS068",
+      "name": "Statistical sectors",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "traditional"
+    },
+    {
+      "id": "DS069",
+      "name": "OECD health statistics",
+      "detailLevel": "aggregated",
+      "accessibility": "opendata",
+      "category": "traditional"
+    }
+  ]
+}
