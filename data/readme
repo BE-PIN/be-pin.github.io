@@ -1,1 +1,4 @@
-
+Description of the files stored in /data:
+- data_sources.json (WP1): metadata on datasets relevant in the context of pandemic intelligence
+- mapping_structure.json (WP1): mapping between information needs, data needs, and datasets
+- list_dataneeds.csv (WP1): listing of data needs 
