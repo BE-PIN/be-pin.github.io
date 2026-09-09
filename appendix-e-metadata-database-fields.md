@@ -89,10 +89,11 @@ of Table 8.*
 | `other` | — |
 
 A few additional remarks on the approach described in Section 4.2 for capturing the metadata of data sources are collated below: 
-●	Data quality is not addressed by one unique field in the metadata, however the purpose of the fields “detailLevel”, “updateFrequency”, and “targetPopulation” should inform the user on whether the dataset contains sufficient information for a given purpose. 
-●	Technical and legal aspects for accessing the data are also not explicitly covered. The “accessibility” field provides an insight on whether the data could be readily available or not. In terms of data governance, Section 6 discusses under which framework (technical infrastructure, and legal basis) the datasets can be accessed and potentially linked. 
-●	The fields defined in the metadata db are specific to the project, they do not belong to a standard vocabulary such as DCAT (https://www.w3.org/TR/vocab-dcat-3/). This choice is motivated by  the need for flexibility and to capture information very specific to the context of BE-PIN. Nevertheless, the field “linkDCAT” allows referring to an external resource (metadata catalogue) where a DCAT-AP compliant metadata description of the dataset is already available.  
-●	 A detailed description at the variable level of each dataset is not foreseen in this version of the metadata db. Again, this could be added in the form of a link towards the relevant resource when available. 
+
+- Data quality is not addressed by one unique field in the metadata, however the purpose of the fields “detailLevel”, “updateFrequency”, and “targetPopulation” should inform the user on whether the dataset contains sufficient information for a given purpose.
+- Technical and legal aspects for accessing the data are also not explicitly covered. The “accessibility” field provides an insight on whether the data could be readily available or not. In terms of data governance, Section 6 discusses under which framework (technical infrastructure, and legal basis) the datasets can be accessed and potentially linked.
+- The fields defined in the metadata db are specific to the project, they do not belong to a standard vocabulary such as DCAT (https://www.w3.org/TR/vocab-dcat-3/). This choice is motivated by  the need for flexibility and to capture information very specific to the context of BE-PIN. Nevertheless, the field “linkDCAT” allows referring to an external resource (metadata catalogue) where a DCAT-AP compliant metadata description of the dataset is already available.
+- A detailed description at the variable level of each dataset is not foreseen in this version of the metadata db. Again, this could be added in the form of a link towards the relevant resource when available. 
 
 
 ---
