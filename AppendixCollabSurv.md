@@ -7,12 +7,12 @@ The evidence-generation matrix that operationalises this framework is grounded i
 
 ## Evidence-Decision Matrix extract
 
-|Phase|Operational stage|Target|Information need category|Information need|
-|Pre-pandemic|Prevent|Pathogen circulation and transmission risk|Epidemiological|Epidemiological situation abroad and global epidemic status|
-|Pre-pandemic|Prevent|Pathogen circulation and transmission risk|Epidemiological|Modes of transmission|
-|Pre-pandemic|Prevent|Pathogen circulation and transmission risk|Epidemiological|Presence of animal reservoirs and susceptibility of domestic and wild animal species|
-|Pre-pandemic|Prevent|Pathogen circulation and transmission risk|Epidemiological|Virological characteristics and evolution of the pathogen|
-|Pre-pandemic|Prevent|Pathogen circulation and transmission risk|Epidemiological|Assessment of the risk of pathogen introduction, local spread, and resurgence|
+| Phase | Operational stage | Target | Information need category | Information need |
+| Pre-pandemic | Prevent | Pathogen circulation and transmission risk |Epidemiological |Epidemiological situation abroad and global epidemic status |
+| Pre-pandemic | Prevent | Pathogen circulation and transmission risk |Epidemiological |Modes of transmission |
+| Pre-pandemic | Prevent | Pathogen circulation and transmission risk |Epidemiological |Presence of animal reservoirs and susceptibility of domestic and wild animal species |
+| Pre-pandemic | Prevent | Pathogen circulation and transmission risk |Epidemiological |Virological characteristics and evolution of the pathogen |
+| Pre-pandemic | Prevent | Pathogen circulation and transmission risk |Epidemiological |Assessment of the risk of pathogen introduction, local spread, and resurgence |
 
 
 Each row of the matrix follows a single pathway, from epidemic phase and operational target to operational decision, information need, data need, and intended evidence output, ensuring that every information requirement remains linked to the decision it serves and the data required to generate it. For the respiratory scenario the matrix comprises 145 rows across the five epidemic phases, from 19 rows in the pre-pandemic phase to 43 in the exponential phase, each mapped to its operational stage: prepare, prevent, respond, recover, adjust, and target. At this stage the demand-side columns, phase, target, decision, and information need are populated, while the supply-side columns, data source, dataset, and analytical approach are being completed under Task 1.3. The same structure underpins the interactive tool, which lets users navigate across phases, decisions, information needs, and evidence requirements.
