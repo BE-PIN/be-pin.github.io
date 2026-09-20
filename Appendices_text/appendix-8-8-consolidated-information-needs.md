@@ -2,8 +2,8 @@
 
 The information needs retained after the consultation, in two parts:
 
-- **[Layered collaborative surveillance model](#layered-collaborative-surveillance-model)** — 57 decision-supporting needs (`pi01`–`pi59`) across three surveillance layers and six thematic domains (**Section 8.3.3** of the main report).
-- **[Contextual and enabling information needs](#contextual-and-enabling-information-needs)** — cross-cutting needs that make decisions possible, legitimate and coordinated (**Annex III** of the source document).
+- **[Layered collaborative surveillance model](#layered-collaborative-surveillance-model)** — 57 decision-supporting needs (`pi01`–`pi59`) across three surveillance layers and six thematic domains.
+- **[Contextual and enabling information needs](#contextual-and-enabling-information-needs)** — cross-cutting needs that make decisions possible, legitimate and coordinated.
 
 ## Layered collaborative surveillance model
 
