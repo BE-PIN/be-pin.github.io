@@ -2,7 +2,7 @@
 
 *BE-PIN WP1 Information Needs Consultation – Concept Note (Full-Day)*
 
-Concept note for the BE-PIN WP1 full-day consultation on information needs (**Section 8.3.2** of the main report). The consolidated outputs of this consultation are reported in [Appendix C](appendix-c-layered-surveillance-model.md).
+Concept note for the BE-PIN WP1 full-day consultation on information needs. The consolidated outputs of this consultation are reported in [Appendix C](appendix-c-layered-surveillance-model.md).
 
 ## Background
 
