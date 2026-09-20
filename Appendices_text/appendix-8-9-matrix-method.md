@@ -1,4 +1,4 @@
-# Appendix xx - Collaborative surveillance framework and evidence-generation matrix
+# Appendix 8.9 - Collaborative surveillance framework and evidence-generation matrix
 
 
 During consolidation, two observations emerged. First, several information needs supported more than one decision at once: epidemic trends, healthcare-system stress indicators, vaccination coverage, behavioural dynamics, and operational readiness repeatedly informed monitoring, clinical, and prevention decisions simultaneously, so a strict separation by thematic area did not reflect how decisions are made in practice. Second, governance, communication, and financing considerations recurred across all areas as conditions determining whether information can be produced, integrated, interpreted, and acted upon, rather than as information needs specific to any one area. The prioritised needs were therefore reorganised into three functional layers and six operational domains, with governance, communication, and financing retained as explicit cross-cutting enabling elements, and traceability to the original decision topics preserved.

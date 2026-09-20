@@ -1,4 +1,4 @@
-# Appendix E — Metadata database fields
+# Appendix 8.6 — Metadata database fields
 
 *Section 8.2.3 — Description of the fields of the metadata database*
 

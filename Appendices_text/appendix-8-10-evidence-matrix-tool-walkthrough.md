@@ -1,4 +1,4 @@
-# Appendix A — Evidence Matrix Tool: Example Walkthrough
+# Appendix 8.10 — Evidence Matrix Tool: Example Walkthrough
 
 This appendix illustrates, step by step, how the BE-PIN Knowledge and Decision Support Tool is used to navigate from an epidemic phase and operational decision to the relevant analytical approach, contact team, and data needs.
 
