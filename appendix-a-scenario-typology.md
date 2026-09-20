@@ -12,5 +12,3 @@ Mapping of the five epidemic phases to their operational response stages and exa
 
 
 ---
-
-<sub>Generated from `BE-PIN Donor Report_2 Appendix.docx`. Source formatting (merged cells, Word smart quotes) has been normalised and a small number of spelling errors corrected; wording is otherwise unchanged.</sub>
