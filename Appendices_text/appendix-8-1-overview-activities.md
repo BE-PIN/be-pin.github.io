@@ -1,4 +1,4 @@
-# Appendix C — Overview of the activities
+# Appendix 8.1 — Overview of the activities
 
 
 - **Stakeholder meeting (March 2024):** presentation and validation of the draft epidemic scenarios at a national meeting organised by the Federal Public Service for Health (~50 participants), followed by bilateral consultations.
