@@ -8,6 +8,7 @@ The evidence-generation matrix that operationalises this framework is grounded i
 ## Evidence-Decision Matrix extract
 
 | Phase | Operational stage | Target | Information need category | Information need |
+| --- | --- | --- | --- | --- |
 | Pre-pandemic | Prevent | Pathogen circulation and transmission risk |Epidemiological |Epidemiological situation abroad and global epidemic status |
 | Pre-pandemic | Prevent | Pathogen circulation and transmission risk |Epidemiological |Modes of transmission |
 | Pre-pandemic | Prevent | Pathogen circulation and transmission risk |Epidemiological |Presence of animal reservoirs and susceptibility of domestic and wild animal species |
