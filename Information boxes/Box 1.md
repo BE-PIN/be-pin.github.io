@@ -4,5 +4,5 @@
 >
 > **Data aggregation** is a technique that can be used both for minimization (limiting data as much as possible for the defined processing purpose) and/or anonymization. Aggregated data may still be considered as personal data depending on the granularity of the variables and the count of individuals in the resulting cells.
 >
-> **Metadata** on the other hand are data describing a dataset and . Metadata catalogues are an important resource to facilitate reuse of data as they provide information on datasets to potential data users. Standards exist, such as health DCAT-AP, to consistently metadata.
+> **Metadata** on the other hand are data describing a dataset and its content. Metadata catalogues are an important resource to facilitate reuse of data as they provide information on datasets to potential data users. Standards exist, such as health DCAT-AP, to consistently describe metadata.
  
