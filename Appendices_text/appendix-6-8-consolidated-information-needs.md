@@ -1,4 +1,4 @@
-# Appendix 8.8 — Consolidated priority information needs
+# Appendix 6.8 — Consolidated priority information needs
 
 The information needs retained after the consultation, in two parts:
 
