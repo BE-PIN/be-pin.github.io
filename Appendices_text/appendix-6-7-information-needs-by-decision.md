@@ -1,4 +1,4 @@
-# Appendix 8.7 — Information needs by decision and epidemic phase
+# Appendix 6.7 — Information needs by decision and epidemic phase
 
 Results of the BE-PIN WP1 national survey and consultation.
 
