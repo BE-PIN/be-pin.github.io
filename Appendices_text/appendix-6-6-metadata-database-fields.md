@@ -1,4 +1,4 @@
-# Appendix 8.6 — Description of the fields of the metadata database
+# Appendix 6.6 — Description of the fields of the metadata database
 
 Description of the metadata recorded for each data source held in the database. Five
 fields are populated from a controlled vocabulary; those keywords are defined in the
