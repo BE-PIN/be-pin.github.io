@@ -1,4 +1,4 @@
-# Appendix 8.2 — Scenario typology
+# Appendix 6.2 — Scenario typology
 
 Mapping of the five epidemic phases to their operational response stages and example response targets. Referenced in **Section 3** of the main report.
 
