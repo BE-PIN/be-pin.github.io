@@ -72,6 +72,7 @@ Reference codes run `pi01`–`pi59`; `pi20` and `pi21` are not used. Each entry 
 | pi38 — Breakdown of prevention tool needs by type and target group | Prevention | Non-traditional |
 | pi39 — Distribution and allocation strategies for pharmaceutical and non-pharmaceutical prevention tools, including PPE | Prevention | Non-traditional |
 | pi40 — Waste management and environmental impact related to PPE use | Prevention | Non-traditional |
+| pi41 — Target population groups and estimated size for possible interventions | Prevention | Mixed |
 
 ### Layer 3 — Decision translation and societal context
 
@@ -79,7 +80,6 @@ Reference codes run `pi01`–`pi59`; `pi20` and `pi21` are not used. Each entry 
 
 | Information need | Original decision topic(s) | Data type |
 | --- | --- | --- |
-| pi41 — Target population groups and estimated size for possible interventions | Prevention | Mixed |
 | pi42 — Sociodemographic characteristics of target groups | Prevention | Mixed |
 | pi43 — Evidence of effectiveness for pharmaceutical and non-pharmaceutical prevention strategies | Prevention | Mixed |
 | pi44 — Expected impact of interventions under different scenarios | Monitoring + Prevention | Mixed |
