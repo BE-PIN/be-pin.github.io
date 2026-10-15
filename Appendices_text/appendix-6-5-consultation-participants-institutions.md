@@ -1,6 +1,6 @@
 # Appendix 6.5 — Consultation Participants: Institutions
 
-This appendix lists the institutions represented by participants who attended the BE-PIN WP1 stakeholder consultation workshops on 14 and 22 January 2026 (Information Needs track). Twenty distinct individuals attended across the two days, with no overlap in attendance between days.
+This appendix lists the institutions represented by participants who attended the BE-PIN WP1 stakeholder consultation workshops on 14 and 22 January 2026 (Information Needs track). Nineteen distinct individuals attended across the two days, with no overlap in attendance between days.
 
 ## Institutions represented
 
